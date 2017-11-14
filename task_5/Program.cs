@@ -22,7 +22,7 @@ namespace task_5
     {
         static void Main(string[] args)
         {
-            Doubler user = new Doubler(2, 3);
+            Doubler user = new Doubler(39, 96);
             int count;
             int choice;
 
@@ -71,6 +71,9 @@ namespace task_5
             {
                 Console.WriteLine($"Вы проиграли :(\nПревысили число {user.Finish} на {user.Current - user.Finish} за {count} шагов");
             }
+
+            Console.WriteLine("Для выхода нажмите любую кнопку...");
+            Console.ReadKey();
         }
     }
 
