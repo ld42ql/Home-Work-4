@@ -259,3 +259,18 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/task_2/Properties/AssemblyInfo.cs
+/task_2/App.config
+/task_2/task_2.csproj
+/task_3/Properties/AssemblyInfo.cs
+/task_3/task_3.csproj
+/task_3/App.config
+/task_4/Properties/AssemblyInfo.cs
+/task_4/task_4.csproj
+/task_4/App.config
+/task_5/Properties/AssemblyInfo.cs
+/task_5/App.config
+/task_5/task_5.csproj
+/task_6/Properties
+/task_6/App.config
+/task_6/task_6.csproj
